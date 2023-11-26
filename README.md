@@ -1,4 +1,15 @@
 # BanFakeNews-NLP
+
+## Dataset details
+
+- No. of classes : 2 (true news,fake news)
+
+- Total entries = 10,392
+
+- True news = 9,093
+
+- Fake news = 1,299
+  
 ## Accuracy
 
 |  | banglabert | xlmRoberta |
