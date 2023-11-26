@@ -9,3 +9,6 @@
 |3.stopword removal|0.92|0.88|
 |1+2+3|0.92|0.93|
 
+## Perfomance metrics
+
+<img width="598" alt="banfakenews" src="https://github.com/Hasibur445/BanFakeNews-NLP/assets/100030004/e2ec4482-16aa-4751-a042-a5b8c835faf0">
